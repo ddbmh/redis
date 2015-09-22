@@ -1,5 +1,2 @@
 # redis
-testRedis
-falkfjla
- sfsaf
-111
+xx
